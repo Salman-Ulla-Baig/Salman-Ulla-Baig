@@ -2,7 +2,7 @@
 - 👀 I’m a Programmer
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking forward to collaborate with a better organization
-- 📫 Reach me at - thesalmanbaig@gmail.com
+- 📫 Can reach me at - thesalmanbaig@gmail.com
 
 <!---
 Salman-Ulla-Baig/Salman-Ulla-Baig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
