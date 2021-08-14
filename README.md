@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salman-Ulla-Baig
+- 👋 Hi, I’m @Salman-Baig
 - 👀 I’m a Programmer
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking forward to collaborate with a better organization
