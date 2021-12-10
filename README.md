@@ -1,6 +1,6 @@
 - 👋 Hi, It’s @Salman-Baig
 - 👀 I’m a Programmer
-- 🌱 currently learning AI
+- 🌱 Currently learning AI
 - 💞️ Looking forward to collaborate with a better organization
 - 📫 Can reach me at - thesalmanbaig@gmail.com
 
